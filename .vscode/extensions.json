@@ -1,5 +1,4 @@
 {
-    "recommendations": [
-        "rust-lang.rust-analyzer"
-    ]
+  "recommendations": ["rust-lang.rust-analyzer"]
+  // disable copilot for this project
 }
